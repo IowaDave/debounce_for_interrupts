@@ -57,7 +57,7 @@ For interrupts designed to wake up a sleeping processor to take a definite actio
 
 The result shown in Figure 4 is produced by combining two resistors and a capacitor with the button into a *resistor-capacitor network*. Such an RC network spreads the voltage change across time. The button still exhibits switch contact bounce; however, the capacitor absorbs the fluctuations while the resistors smooth them out.
 
-A digital input pin on the ATmega32P processor of an Arduino begins to read as "logical-low" at voltage levels less than 2.3 volts. Image 4 shows this level being reached roughly 3 milliseconds after the pushbutton first makes contact. 
+A digital input pin on the ATmega32P processor of an Arduino begins to read as &ldquo;logical-low&rdquo; at voltage levels less than 2.3 volts. Image 4 shows this level being reached roughly 3 milliseconds after the pushbutton first makes contact. 
 
 The network that produced Image 4 combines two 10K-Ohm resistors with a 0.47 microFarad capacitor. Image 5 gives a schematic diagram of the arrangement.
 
@@ -67,7 +67,7 @@ The network that produced Image 4 combines two 10K-Ohm resistors with a 0.47 mic
 The capacitor charges through the two resistors while the pushbutton is in the *up* (released) position. When the putton is pressed down, the capacitor discharges to ground through the resistor between it and the button.  
 
 ## Nothing Is Perfect
-Alas, an RC network might not suppress every bounce. Very infrequently, I have seen 'scope images where a late bounce takes the voltage back up above 2.3 then resumes decreasing. 
+Alas, an RC network might not suppress every bounce. Very infrequently, I have seen 'scope images, for the RC network depicted above, where a late bounce increases the voltage to more than 2.3 before decreasing again. 
 
 Such an event might trigger a second interrupt. The program design would need to take this possibility into account.
 
