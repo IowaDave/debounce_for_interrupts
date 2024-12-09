@@ -56,9 +56,9 @@ For interrupts designed to wake up a sleeping processor to take a definite actio
 ![Image 4](./images/image4.png)<br>
 **Image 4: Voltage Change Smoothed with Hardware**
 
-The result shown in Figure 4 is produced by combining two resistors and a capacitor with the button into a *resistor-capacitor network*. Such an RC network operates spread the voltage change across time. The button still exhibits switch contact bounce; however, the capacitor absorbs the fluctuations while the resistors smooth them out.
+The result shown in Figure 4 is produced by combining two resistors and a capacitor with the button into a *resistor-capacitor network*. Such an RC network spreads the voltage change across time. The button still exhibits switch contact bounce; however, the capacitor absorbs the fluctuations while the resistors smooth them out.
 
-A digital imput pin on the ATmega32P processor of an Arduino begins to read as "low" at voltage levels less than 2.3 volts. As Image 4 shows, this level is reached roughly 3 milliseconds after the pushbutton first makes contact. 
+A digital input pin on the ATmega32P processor of an Arduino begins to read as "logical-low" at voltage levels less than 2.3 volts. Image 4 shows this level being reached roughly 3 milliseconds after the pushbutton first makes contact. 
 
 The network that produced Image 4 combines two 10K-Ohm resistors with a 0.47 microFarad capacitor. Image 5 gives a schematic diagram of the arrangement.
 
@@ -72,4 +72,4 @@ Alas, an RC network might not suppress every bounce. Very infrequently, I have s
 
 Such an event might trigger a second interrupt. The program design would need to take this possibility into account.
 
-RC networks are wonderfully flexible. For example, increasing the size of the capacitor would lengthen the time it takes for the voltage to decrease. It would increase the reliablity of the signal, at the cost of a slower response to the pushbutton. Such details may be determined experimentally during the prototyping phase of a project. 
+RC networks are wonderfully flexible. For example, increasing the size of the capacitor would lengthen the time it takes for the voltage to decrease. Lengthening the time would increase the reliablity of the signal, at the cost of a slower response to the pushbutton. Such details may be determined experimentally during the prototyping phase of a project. 
