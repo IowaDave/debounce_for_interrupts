@@ -15,9 +15,7 @@ Pictures will replace many words.
 ## Visualizing Contact Bounce
 Like all mechanical switches, a momentary pushbutton brings two electrical conductors together. We like to imagine that when they touch, current passes from one into the other. and when they separate, it stops.
 
-Unfortunately, things are not so simple. Just as the lightning jumps between storm clouds and the ground, electricity can leap across the gap between conductorsin a pushbutton. The button will then appear to have been pushed and released many times in rapid succession. A few screen images from an oscilloscope provide some examples.
-
-Images 1 and 2 display voltage from Circuit 1: +5v >> resistor >> scope takeoff >> button >> ground.
+Unfortunately, things are not so simple. Just as the lightning jumps between storm clouds and the ground, electricity can leap across the gap between conductors in a pushbutton. The button will then appear to have been pushed and released many times in rapid succession. A few screen images from an oscilloscope provide some examples.
 
 ![Image 1](./images/image1.png)<br>
 **Image 1: What We Desire**
