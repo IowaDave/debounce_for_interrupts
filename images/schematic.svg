@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="167.65872mm"
+   height="160.30075mm"
+   viewBox="0 0 167.65872 160.30075"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="schematic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-global="false"
+     inkscape:zoom="0.43150514"
+     inkscape:cx="140.20691"
+     inkscape:cy="302.42977"
+     inkscape:window-width="1312"
+     inkscape:window-height="781"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:lockguides="false"
+     units="mm"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <sodipodi:guide
+       position="26.837751,145.44416"
+       orientation="0,1"
+       id="guide18523"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="14.573083,11.11685"
+       orientation="0,1"
+       id="guide19100"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="6.3966378,81.7847"
+       orientation="1,0"
+       id="guide1312" />
+    <sodipodi:guide
+       position="53.703211,105.14597"
+       orientation="1,0"
+       id="guide1314" />
+    <sodipodi:guide
+       position="151.18808,45.431769"
+       orientation="0,-1"
+       id="guide1316" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="341.18762"
+       y="761.34448"
+       width="239.94501"
+       height="121.49114"
+       id="rect13987" />
+    <rect
+       x="506.21307"
+       y="480.90244"
+       width="69.857407"
+       height="33.410065"
+       id="rect10087" />
+    <rect
+       x="309.03101"
+       y="48.562016"
+       width="313.44574"
+       height="136.85658"
+       id="rect2092" />
+    <rect
+       x="362.45941"
+       y="406.63727"
+       width="121.48916"
+       height="34.137451"
+       id="rect2034" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-5.2839982,-34.20208)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect20133"
+       width="167.39372"
+       height="160.03575"
+       x="5.4164977"
+       y="34.334579"
+       inkscape:export-filename="/Users/david/Documents/Github/Debounce/images/g3516.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g3516"
+       transform="rotate(90,94.659745,105.06856)"
+       inkscape:export-filename="/Users/david/Documents/Github/Debounce/images/g3516.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:none;fill-opacity:0.388664;stroke:#000000;stroke-width:0.181314;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect850"
+         width="28.242901"
+         height="8.8502426"
+         x="91.07711"
+         y="78.608521" />
+      <text
+         xml:space="preserve"
+         id="text2032"
+         style="font-size:4.9389px;line-height:1.25;font-family:Baskerville;-inkscape-font-specification:Baskerville;white-space:pre;shape-inside:url(#rect850)"
+         transform="translate(8.9958338,1.0583333)"><tspan
+           x="91.076172"
+           y="83.103236"
+           id="tspan20405">10KΩ</tspan></text>
+    </g>
+    <g
+       id="g3516-7"
+       transform="rotate(90,119.57325,80.155057)"
+       inkscape:export-filename="/Users/david/Documents/Github/Debounce/images/g3516.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:none;fill-opacity:0.388664;stroke:#000000;stroke-width:0.181314;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect850-8"
+         width="28.242901"
+         height="8.8502426"
+         x="91.07711"
+         y="78.608521" />
+      <text
+         xml:space="preserve"
+         id="text2032-8"
+         style="font-size:4.9389px;line-height:1.25;font-family:Baskerville;-inkscape-font-specification:Baskerville;white-space:pre;shape-inside:url(#rect850-8)"
+         transform="translate(8.9958338,1.0583333)"><tspan
+           x="91.076172"
+           y="83.103236"
+           id="tspan20407">10KΩ</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.236786px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 116.69467,89.954773 h 20"
+       id="path3878"
+       inkscape:export-filename="/Users/david/Documents/Github/Debounce/images/g3516.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.236786px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 136.81375,89.954771 14.14214,-14.14214"
+       id="path3878-5"
+       inkscape:export-filename="/Users/david/Documents/Github/Debounce/images/g3516.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.137703;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path4004"
+       cx="116.69467"
+       cy="89.954773"
+       rx="0.93114859"
+       ry="0.93114853"
+       inkscape:export-filename="/Users/david/Documents/Github/Debounce/images/g3516.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.137703;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path4004-1"
+       cx="156.47208"
+       cy="89.954773"
+       rx="0.93114859"
+       ry="0.93114853"
+       inkscape:export-filename="/Users/david/Documents/Github/Debounce/images/g3516.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.137703;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path4004-10"
+       cx="136.81375"
+       cy="89.954773"
+       rx="0.93114859"
+       ry="0.93114853"
+       inkscape:export-filename="/Users/david/Documents/Github/Debounce/images/g3516.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.137703;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path4004-18"
+       cx="58.987209"
+       cy="149.07106"
+       rx="0.93114859"
+       ry="0.93114853"
+       inkscape:export-filename="/Users/david/Documents/Github/Debounce/images/g3516.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 141.59551,142.07106 v 14"
+       id="path4269"
+       inkscape:export-filename="/Users/david/Documents/Github/Debounce/images/g3516.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 143.98639,142.07106 v 14"
+       id="path4269-6"
+       inkscape:export-filename="/Users/david/Documents/Github/Debounce/images/g3516.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.237;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 116.69467,79.881421 V 101.55621"
+       id="path4439"
+       inkscape:export-filename="/Users/david/Documents/Github/Debounce/images/g3516.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 116.74551,129.71802 v 9.43784 9.87571 h 24.83751"
+       id="path4441"
+       inkscape:export-filename="/Users/david/Documents/Github/Debounce/images/g3516.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.137703;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path4004-18-6"
+       cx="116.69467"
+       cy="51.717377"
+       rx="0.93114859"
+       ry="0.93114853"
+       inkscape:export-filename="/Users/david/Documents/Github/Debounce/images/g3516.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.137703;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path4004-18-7"
+       cx="156.47208"
+       cy="149.07106"
+       rx="0.93114859"
+       ry="0.93114853"
+       inkscape:export-filename="/Users/david/Documents/Github/Debounce/images/g3516.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.137703;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path4004-18-9"
+       cx="116.74551"
+       cy="149.03156"
+       rx="0.93114859"
+       ry="0.93114853"
+       inkscape:export-filename="/Users/david/Documents/Github/Debounce/images/g3516.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 143.98639,149.05193 h 12.48568"
+       id="path18525"
+       inkscape:export-filename="/Users/david/Documents/Github/Debounce/images/g3516.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g19228"
+       transform="translate(112.70356,-4.1767154)"
+       inkscape:export-filename="/Users/david/Documents/Github/Debounce/images/g3516.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 34.768517,174 H 52.768515"
+         id="path19139" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 37.768516,177 h 12"
+         id="path19141" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 40.768516,180 h 6.000001"
+         id="path19143" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 156.47207,89.954759 V 169.82328"
+       id="path901"
+       inkscape:export-filename="/Users/david/Documents/Github/Debounce/images/g3516.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 119.68449,44.879926 -3,-3 -3,3 z"
+       id="path1016"
+       inkscape:export-filename="/Users/david/Documents/Github/Debounce/images/g3516.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 116.68449,50.879926 v -6"
+       id="path1149"
+       inkscape:export-filename="/Users/david/Documents/Github/Debounce/images/g3516.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect1340"
+       width="47.306572"
+       height="134.3273"
+       x="11.680635"
+       y="49.05867"
+       inkscape:export-filename="/Users/david/Documents/Github/Debounce/images/g3516.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0,0.26458333,-0.26458333,0,50.8888,8.6136729)"
+       id="text2090"
+       style="font-size:16px;line-height:1.25;font-family:Baskerville;-inkscape-font-specification:Baskerville;white-space:pre;shape-inside:url(#rect2092)"
+       inkscape:export-filename="/Users/david/Documents/Github/Debounce/images/g3516.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="309.03125"
+         y="77.679017"
+         id="tspan20413"><tspan
+           style="font-size:32px"
+           id="tspan20409">Microcontrolle</tspan><tspan
+           style="font-size:32px"
+           id="tspan20411">r</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 58.98721,149.07106 57.7583,-0.0395"
+       id="path4749"
+       inkscape:export-filename="/Users/david/Documents/Github/Debounce/images/g3516.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text10085"
+       style="font-size:32px;line-height:1.25;font-family:Baskerville;-inkscape-font-specification:Baskerville;white-space:pre;shape-inside:url(#rect10087)"><tspan
+         x="506.21289"
+         y="543.42902"
+         id="tspan20417"><tspan
+           dx="0 16 8 16"
+           id="tspan20415">0.47</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,34.287499,-48.484667)"
+       id="text13985"
+       style="font-size:18.6667px;line-height:1.25;font-family:Baskerville;-inkscape-font-specification:Baskerville;white-space:pre;shape-inside:url(#rect13987)"
+       inkscape:export-filename="/Users/david/Documents/Github/Debounce/images/g3516.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="341.1875"
+         y="778.32842"
+         id="tspan20419">0.47µf</tspan></text>
+  </g>
+</svg>
