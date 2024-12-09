@@ -5,7 +5,8 @@ A momentary pushbutton looks like a simple device. Press it down to close a circ
 
 Pushbuttons show up early in entry-level projects for learners just beginning to explore Arduino and other code-enabled devices. The way they work is intuitively obvious for activating a light or pulsing a motor. However, such seeming ease conceals a problem.
 
-Here is the problem: the result of pushing the button becomes unpredictable when you try to use it like a stopwatch. The cause of this problem is &ldquo;switch contact bounce&rdquo;.
+## The Problem
+The result of pushing the button becomes unpredictable at very short intervals of time during its movement between the fully-up and fully-down positions. This causes difficulty for using the pushbutton as an interrupt source. The origin of this problem is &ldquo;switch contact bounce&rdquo;.
 
 I cannot explain the electromagnetic theory behind switch contact bounce. I only hope to describe the phenomenon well enough to reckon with it in an Arduino project.
 
